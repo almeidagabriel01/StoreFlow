@@ -1,6 +1,6 @@
-# Scoder – React + TypeScript E-commerce Demo
+# StoreFlow – React + TypeScript E-commerce Demo
 
-Scoder é uma pequena aplicação **front-end** que consome a _FakeStore API_ para exibir produtos, gerenciar um carrinho e simular um fluxo de checkout completo em três etapas.  
+StoreFlow é uma pequena aplicação **front-end** que consome a _FakeStore API_ para exibir produtos, gerenciar um carrinho e simular um fluxo de checkout completo em três etapas.  
 O projeto demonstra boas práticas de **estado global** com Context + `useReducer`, **formulários** performáticos com `react-hook-form` + Zod, e UI responsiva com **Tailwind CSS**.
 
 ---
@@ -40,8 +40,8 @@ O projeto demonstra boas práticas de **estado global** com Context + `useReduce
 
 ```bash
 # 1. clonar o repositório
-git clone https://github.com/<sua-conta>/scoder.git
-cd scoder
+git clone https://github.com/<sua-conta>/storeflow.git
+cd storeflow
 
 # 2. instalar dependências
 npm install

@@ -52,7 +52,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           {/* Page title and description */}
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
-              Welcome to <span className="bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">Scoder</span>
+              Welcome to <span className="bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">StoreFlow</span>
             </h1>
             <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
               Discover our amazing collection of products. Add items to your cart and enjoy a seamless shopping experience.

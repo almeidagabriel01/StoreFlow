@@ -27,7 +27,7 @@ export const Header: React.FC<HeaderProps> = ({ onNavigate }) => {
             onClick={() => onNavigate('home')}
             className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent cursor-pointer"
           >
-            Scoder
+            StoreFlow
           </button>
 
           <div className="flex items-center gap-4">
